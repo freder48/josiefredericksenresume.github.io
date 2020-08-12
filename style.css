@@ -4,7 +4,8 @@ header {
   background-color: wheat;
   padding: 2;
   margin: 0; 
-  border-width: thin;
+  line-height: 1; 
+  border-width: medium;
   border-style: dotted;
 }
 
