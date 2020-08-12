@@ -2,7 +2,10 @@ body {}
 
 header {
   background-color: wheat;
-  padding: .5;
+  padding: 2;
+  margin: 0; 
+  border-width: thin;
+  border-style: dotted;
 }
 
 h1 {
