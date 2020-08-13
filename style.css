@@ -1,5 +1,5 @@
-* {
-font-family: Helvetica;
+html * {
+font-family: helvetica;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
 
 h1 {
   font-size: 50px;
-  padding-left: 30px;
+  padding-left: 25px;
 }
 
 h2 {
